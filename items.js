@@ -1,0 +1,161 @@
+const items = [
+  {
+    id: '001',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt1.webp",
+    company_name: "Louis Philippe Jeans",
+    item_name: "Men Pure Cotton Casual Shirt",
+    current_price: 1356,
+    original_price: 2299,
+    discount_percentage: 41,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.4,
+      reviews: 45,
+    },
+  }, 
+  
+  {
+    id: '002',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt2.webp",
+    company_name: "Louis Philippe Sport",
+    item_name: "Men Navy Blue Slim Fit Buffalo Checks Pure Cotton Casual Shirt",
+    current_price: 1862,
+    original_price: 2699,
+    discount_percentage: 31,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.4,
+      reviews: 14,
+    },
+  },
+
+  {
+    id: '003',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt3.webp",
+    company_name: "Allen Solly",
+    item_name: "Men Coral Red Slim Fit Textured Casual Shirt",
+    current_price: 674,
+    original_price: 1499,
+    discount_percentage: 203,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.1,
+      reviews: 203,
+    },
+  },
+
+  {
+    id: '004',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt4.webp",
+    company_name: "Peter England Casuals",
+    item_name: "Men Printed Slim Fit Pure Cotton Casual Shirt",
+    current_price: 1619,
+    original_price: 1799,
+    discount_percentage: 10,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4,
+      reviews: 11,
+    },
+  },
+
+  {
+    id: '005',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt5.webp",
+    company_name: "The Souled Store",
+    item_name: "Tartan Checks Opaque Checked Casual Shirt",
+    current_price: 1469,
+    original_price: 2999,
+    discount_percentage: 51,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.5,
+      reviews: 15,
+    },
+  },
+
+  {
+    id: '006',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt6.webp",
+    company_name: "Levis",
+    item_name: "Slim Fit Checked Pure Cotton Casual Shirt",
+    current_price: 959,
+    original_price: 2399,
+    discount_percentage: 60,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.5,
+      reviews: 20,
+    },
+  },
+
+  {
+    id: '007',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt7.webp",
+    company_name: "Roadster",
+    item_name: "Men Teal Green & Mustard Yellow Pure Cotton Windowpane Checked Casual Shirt",
+    current_price: 611,
+    original_price: 1699,
+    discount_percentage: 64,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.2,
+      reviews: 492,
+    },
+  },
+
+  {
+    id: '008',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt8.webp",
+    company_name: "THE BEAR HOUSE",
+    item_name: "Men Off-White & Black Slim Fit Striped Casual Cotton Shirt",
+    current_price: 1122,
+    original_price: 2495,
+    discount_percentage: 55,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.3,
+      reviews: 542,
+    },
+  },
+
+  {
+    id: '009',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt9.webp",
+    company_name: "The Souled Store",
+    item_name: "White Opaque Printed Casual Shirt",
+    current_price: 1299,
+    original_price: 1999,
+    discount_percentage: 35,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.2,
+      reviews: 14,
+    },
+  },
+
+  {
+    id: '10',
+    item_image: "/Myntra Clone 2.0/Myntra-images/Shirt10.webp",
+    company_name: "HERE&NOW",
+    item_name: "Oversized Ribbed Corduroy Casual Shirt",
+    current_price: 863,
+    original_price: 2399,
+    discount_percentage: 64,
+    delivery_date: '10 April 2024',
+    return_period: 14,
+    rating: {
+      stars: 4.1,
+      reviews: '2.3k',
+    },
+  },
+];
