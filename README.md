@@ -1,0 +1,5 @@
+- This Myntra Clone can give the facilities of the Shopping Bag.
+- You can add and remove items in the bag according to your preference.
+- In this clone I focuse on the JavaScript part over than html and css.
+- In previously also I make a Myntra Clone only use of HTML and CSS.
+- Thank You.  
