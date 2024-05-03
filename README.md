@@ -2,4 +2,5 @@
 - You can add and remove items in the bag according to your preference.
 - In this clone I focuse on the JavaScript part over than html and css.
 - In previously also I make a Myntra Clone only use of HTML and CSS.
+- Run Myntra.html file only to Show the myntra clone.
 - Thank You.  
